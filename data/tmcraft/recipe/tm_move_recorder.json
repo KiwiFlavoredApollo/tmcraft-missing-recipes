@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "tmcraft:tm_move_recorder",
+        "id": "tmcraft:tm_move_recorder",
         "count": 1
     }
 }

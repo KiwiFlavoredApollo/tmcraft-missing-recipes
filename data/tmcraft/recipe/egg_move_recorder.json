@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "tmcraft:egg_move_recorder",
+        "id": "tmcraft:egg_move_recorder",
         "count": 1
     }
 }
