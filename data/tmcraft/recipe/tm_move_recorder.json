@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GIG",
+        "GXG",
+        "GGG"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:gold_ingot"
+        },
+        "X": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "minecraft:green_stained_glass"
+        }
+    },
+    "result": {
+        "item": "tmcraft:tm_move_recorder",
+        "count": 1
+    }
+}
